@@ -1,0 +1,8 @@
+{
+  "name": "albusus",
+  "website": "https://www.linkedin.com/in/hamit-furkan-canbak%C4%B1%C5%9F/",
+  "description": "i am cryptolover",
+  "logo": "https://i.ibb.co/qd2c0J4/eigenlogo.png",
+  "twitter": "https://twitter.com/necatikaya758"
+}
+
